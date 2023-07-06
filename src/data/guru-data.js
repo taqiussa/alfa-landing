@@ -13,13 +13,13 @@ export const guruData = [
     socials: [
     ],
   },
-  {
-    img: "/img/eka.jpeg",
-    name: "Eka Anjarsari,M.Pd.Gr.",
-    position: "Waka. Kurikulum & Guru Mapel IPS",
-    socials: [
-    ],
-  },
+  // {
+  //   img: "/img/eka.jpeg",
+  //   name: "Eka Anjarsari,M.Pd.Gr.",
+  //   position: "Waka. Kurikulum & Guru Mapel IPS",
+  //   socials: [
+  //   ],
+  // },
   {
     img: "/img/ris.jpeg",
     name: "Ristiyono,S.Pd.Gr.",
@@ -111,13 +111,13 @@ export const guruData = [
     socials: [
     ],
   },
-  {
-    img: "/img/adiba.jpeg",
-    name: "Adibatun Nisa',S.Pd.",
-    position: "Guru Mapel Bahasa Indonesia",
-    socials: [
-    ],
-  },
+  // {
+  //   img: "/img/adiba.jpeg",
+  //   name: "Adibatun Nisa',S.Pd.",
+  //   position: "Guru Mapel Bahasa Indonesia",
+  //   socials: [
+  //   ],
+  // },
   {
     img: "/img/galuh.jpeg",
     name: "Galuh Bestari Restu Maya Pada,S.Pd.",
@@ -140,8 +140,8 @@ export const guruData = [
     ],
   },
   {
-    img: "/img/april.jpeg",
-    name: "Dwi Sura Aprilia,S.Pd.",
+    img: "/img/hikmah.jpeg",
+    name: "Nur Hikmah,S.Pd.",
     position: "Guru Mapel Bahasa Inggris",
     socials: [
     ],
@@ -154,15 +154,15 @@ export const guruData = [
     ],
   },
   {
-    img: "/img/dewi.jpeg",
-    name: "Dewi Khariroh,S.Pd.",
+    img: "/img/rafika.jpeg",
+    name: "Rafika Primadani,S.Pd.",
     position: "Guru Mapel IPA",
     socials: [
     ],
   },
   {
-    img: "/img/reni.jpeg",
-    name: "Reni Setyowati,S.Pd.",
+    img: "/img/syifa.jpeg",
+    name: "Syifa Diatmika,S.Pd.",
     position: "Guru Mapel IPA",
     socials: [
     ],
@@ -189,15 +189,15 @@ export const guruData = [
     ],
   },
   {
-    img: "/img/umi.jpeg",
-    name: "Umi Fahruroh,S.Pd.",
+    img: "/img/sairoh.jpeg",
+    name: "Sairoh,S.Pd.",
     position: "Guru Mapel Matematika",
     socials: [
     ],
   },
   {
-    img: "/img/risca.jpeg",
-    name: "Risca Sylviana,S.Pd.",
+    img: "/img/tutut.jpeg",
+    name: "Muslimatuththoyyibah,S.Pd.",
     position: "Guru Mapel Matematika",
     socials: [
     ],
@@ -371,8 +371,15 @@ export const guruData = [
     ],
   },
   {
-    img: "/img/imut.jpeg",
-    name: "Siti Mutmainah,S.Pd.",
+    img: "/img/uyun.jpeg",
+    name: "Uyun Nur Faza,S.Psi.",
+    position: "Guru Bimbingan dan Konseling",
+    socials: [
+    ],
+  },
+  {
+    img: "/img/firda.jpeg",
+    name: "Firda Ihza Jazyla. S.Psi",
     position: "Guru Bimbingan dan Konseling",
     socials: [
     ],

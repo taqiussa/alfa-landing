@@ -10,14 +10,14 @@ export const featuresData = [
     title: "Religius",
     icon: StarIcon,
     description:
-      "Menghasilkan lulusan yang menguasai ilmu agama, pengetahuan dan teknologi untuk mempersiapkan arus globalisasi.",
+      "menghasilkan lulusan yang menguasai ilmu agama, mampu mengamalkan dan mempraktekkannya.",
   },
   {
     color: "blue",
     title: "Berakhlak",
     icon: AcademicCapIcon,
     description:
-      "Menghasilkan lulusan yang tekun beribadah, jujur, disiplin, tanggung jawab, percaya diri dan berakhlaqul karimah.",
+      "menghasilkan lulusan yang tawadhu', jujur, disiplin, tanggung jawab, dan percaya diri.",
   },
   {
     color: "teal",
